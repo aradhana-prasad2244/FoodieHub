@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+.activeNav {
+    border-bottom: 3px solid #ce5f0b;
+    border-radius: 2px;
+}
+
+.hide-scrollbar::-webkit-scrollbar{
+    display: none;
+}
+
+.activeImg {
+    border: 4px solid #ce5f0b;
+    padding: 6px; 
+    transition: all 0.3s ease;
+    transform: scale(1);
+}
+
+.dot {
+    /* h-2 w-2 bg-orange-700 rounded-full absolute -top-1 -right-1 */
+    height: 7px;
+    width: 7px;
+    background-color: rgb(211, 66, 14);
+    border-radius: 50%;
+    position: absolute;
+    top: -1px;
+    right: -7px;
+}
