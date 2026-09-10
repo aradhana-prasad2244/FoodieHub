@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 import { StoreContext } from "../context/StoreContext";
-import FoodItem from "./foodItem";
+import FoodItem from "./FoodItem";
 
 const FoodDisplay = ({ category }) => {
   const { foodList } = useContext(StoreContext);
