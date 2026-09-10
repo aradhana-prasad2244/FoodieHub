@@ -1,12 +1,29 @@
-# React + Vite
+# 🍔 FoodieHub - Food Delivery Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+FoodieHub is a modern food delivery web application built using React.js and Tailwind CSS.
 
-Currently, two official plugins are available:
+The application provides a clean and user-friendly interface where users can explore different food items, select menu categories, add items to their cart, and experience a simple food ordering interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+🔗 [View FoodieHub Live](https://foodiehub-food-delivery-app.netlify.app/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+- 🏠 Modern Home page
+- 🍕 Menu with food category selection
+- 🍔 Food item cards
+- 🛒 Add to Cart functionality
+- 💰 Cart page for selected food items
+- 🔐 Login page with clean UI
+- 🎨 Modern UI using Tailwind CSS
+- ⚡ Fast application using React and Vite
+- 🧩 Reusable React components
+- 🖱️ Interactive user interface
+
+## 🛠️ Technologies Used
+
+- React.js
+- JavaScript (ES6+)
+- Tailwind CSS
+- Vite
